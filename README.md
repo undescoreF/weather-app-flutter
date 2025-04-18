@@ -1,4 +1,4 @@
-# 🌤️ Meteo App (Flutter)
+# 🌤️  Weather App (Flutter)
 
 A simple  **mini weather app** built using **Flutter** and **GetX**. It displays the current weather, hourly forecasts, and a 10-day forecast based on your current location or any place you search for.
 
