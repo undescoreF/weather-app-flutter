@@ -19,11 +19,12 @@ A simple  **mini weather app** built using **Flutter** and **GetX**. It displays
 
 ## 📸 Screenshots
 
-<p align="left">
-  <img src="screenshots/img.png" width="250" />&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/img3.png" width="250" />&nbsp;
+<p align="center">
+  <img src="screenshots/img.png" width="250" style="margin-right: 10px;" />
+  <img src="screenshots/img3.png" width="250" style="margin-right: 10px;" />
   <img src="screenshots/img2.png" width="250" />
 </p>
+
 
 
 ---
