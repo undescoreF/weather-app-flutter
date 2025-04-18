@@ -21,8 +21,8 @@ A simple  **mini weather app** built using **Flutter** and **GetX**. It displays
 
 <p float="left">
   <img src="screenshots/img.png" width="250" />
-  <img src="screenshots/img2.png" width="250" />
   <img src="screenshots/img3.png" width="250" />
+  <img src="screenshots/img2.png" width="250" />
 </p>
 
 ---
