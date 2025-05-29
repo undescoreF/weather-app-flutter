@@ -4,7 +4,7 @@ A simple  **mini weather app** built using **Flutter** and **GetX**. It displays
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📍 Auto-detects your current location
 - 🔍 Search for any city (with live suggestions)
